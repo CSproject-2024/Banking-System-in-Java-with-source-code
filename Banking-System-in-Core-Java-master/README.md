@@ -111,27 +111,35 @@ demo- https://projectworlds.in/java-projects-with-source-code/banking-system-in-
 
 The Banking System consists of several core components and modules that work together to provide a comprehensive internet banking solution. Below is a breakdown of these components:
 
-1.	**User Interface (UI) Module**
-   •	Description: This module is responsible for the front-end interactions. It is designed using HTML and JavaScript to facilitate user-friendly navigation and operations.
-   •	Key Features:
+1.	**User Interface (UI) Module**:
+
+   •	**Description:** This module is responsible for the front-end interactions. It is designed using HTML and JavaScript to facilitate user-friendly navigation and operations.
+
+   •	**Key Features:**
       -	Dashboard for account management.
       -	Transaction history display.
 
-2.	**Core Banking Logic Module**
-   •	Description: This module contains the main business logic of the banking system, implemented in Core Java.
-   •	Key Features:
+2.	**Core Banking Logic Module**:
+
+   •	**Description:** This module contains the main business logic of the banking system, implemented in Core Java.
+
+   •	**Key Features:**
       -	Customer account management (creation, deletion, updates).
       -	Transaction processing (deposits, withdrawals, transfers).
 
-3.	**Database Module**
-   •	Description: This module manages data storage and retrieval using SQL. It handles all database operations to ensure data integrity and security.
-   •	Key Features:
+3.	**Database Module**:
+
+   •	**Description:** This module manages data storage and retrieval using SQL. It handles all database operations to ensure data integrity and security.
+
+   •	**Key Features:**
       -	Transaction records management.
       -	Account information storage.
 
-4.	**Security Module**
-   •	Description: This module implements security features to protect user data and transactions.
-   •	Key Features:
+4.	**Security Module**:
+
+   •	**Description:** This module implements security features to protect user data and transactions.
+
+   •	**Key Features:**
       -	Encryption of sensitive data (e.g., passwords).
       -	Session management to prevent unauthorized access.
       -	Input validation to prevent SQL injection and other attacks.
