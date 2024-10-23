@@ -123,7 +123,7 @@ This module is responsible for the front-end interactions. It is designed using 
 - Dashboard for account management.
 - Transaction history display.
 
----
+
 
 ## 2. Core Banking Logic Module
 
@@ -134,7 +134,7 @@ This module contains the main business logic of the banking system, implemented 
 - Customer account management (creation, deletion, updates).
 - Transaction processing (deposits, withdrawals, transfers).
 
----
+
 
 ## 3. Database Module
 
@@ -145,7 +145,7 @@ This module manages data storage and retrieval using SQL. It handles all databas
 - Transaction records management.
 - Account information storage.
 
----
+
 
 ## 4. Security Module
 
