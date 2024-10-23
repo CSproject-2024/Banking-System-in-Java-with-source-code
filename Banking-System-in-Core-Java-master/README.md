@@ -113,36 +113,41 @@ The Banking System consists of several core components and modules that work tog
 
 1.	**User Interface (UI) Module**:
 
-   •	**Description:** This module is responsible for the front-end interactions. It is designed using HTML and JavaScript to facilitate user-friendly navigation and operations.
+      •	**Description:** This module is responsible for the front-end interactions. It is designed using HTML and JavaScript to facilitate user-friendly navigation and operations.
+   
+      •	**Key Features:**
+         -	Dashboard for account management.
 
-   •	**Key Features:**
-      -	Dashboard for account management.
-      -	Transaction history display.
+         -	Transaction history display.
 
 2.	**Core Banking Logic Module**:
 
-   •	**Description:** This module contains the main business logic of the banking system, implemented in Core Java.
+      •	**Description:** This module contains the main business logic of the banking system, implemented in Core Java.
 
-   •	**Key Features:**
-      -	Customer account management (creation, deletion, updates).
-      -	Transaction processing (deposits, withdrawals, transfers).
+      •	**Key Features:**
+         -	Customer account management (creation, deletion, updates).
+
+         -	Transaction processing (deposits, withdrawals, transfers).
 
 3.	**Database Module**:
 
-   •	**Description:** This module manages data storage and retrieval using SQL. It handles all database operations to ensure data integrity and security.
+      •	**Description:** This module manages data storage and retrieval using SQL. It handles all database operations to ensure data integrity and security.
+   
+      •	**Key Features:**
+            -	Transaction records management.
 
-   •	**Key Features:**
-      -	Transaction records management.
-      -	Account information storage.
+            -	Account information storage.
 
 4.	**Security Module**:
-
-   •	**Description:** This module implements security features to protect user data and transactions.
-
-   •	**Key Features:**
-      -	Encryption of sensitive data (e.g., passwords).
-      -	Session management to prevent unauthorized access.
-      -	Input validation to prevent SQL injection and other attacks.
+   
+      •	**Description:** This module implements security features to protect user data and transactions.
+   
+      •	**Key Features:**
+         -	Encryption of sensitive data (e.g., passwords).
+   
+         -	Session management to prevent unauthorized access.
+   
+         -	Input validation to prevent SQL injection and other attacks.
 
 
 
